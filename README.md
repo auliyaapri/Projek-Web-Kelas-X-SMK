@@ -1,6 +1,6 @@
 # Projek Web Kelas X SMK
 
-Membuat website dengan tem penjualan
+Membuat website dengan tema penjualan
 
 https://auliyaapriwiguna.github.io/jualan/
 
