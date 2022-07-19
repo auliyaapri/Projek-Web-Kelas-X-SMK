@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+ <title> ini kasir</title>
+ <style>
+  .tengah{
+           
+          
+        }
+  
+
+  }
+
+  
+ </style>
+<BODY>
+<style>
+		body{
+			background-image:url(background.jpg);
+			background-size:cover;
+			background-attachment: 
+		}
+		p{
+			color:white;
+		}
+	</style>
+
+<Center>
+<P><SCRIPT language="JavaScript">
+<!--
+function jumlah ()
+{
+var bil1=parseFloat(document.form.bilangan1.value);
+if (isNaN (bil1))
+bil1=0.0;
+var bil2=parseFloat(document.form.bilangan2.value);
+if (isNaN (bil2))
+bil2=0.0;
+var bil3=parseFloat(document.form.bilangan3.value);
+if (isNaN (bil3))
+bil3=0.0;
+var bil4=parseFloat(document.form.bilangan4.value);
+if (isNaN (bil4))
+bil4=0.0;
+var hasil=bil1+bil2+bil3+bil4
+alert("Hasil Penjumlahan="+hasil)
+}
+ 
+//--></SCRIPT></P>
+<FORM NAME="form">
+<font color="yellow"><H1><BR>GAMING STORE</H1></font>
+<style type="text/css">
+body {
+        background-image: url('download(2).jpg');
+        background-repeat: no-repeat;
+        background-position: 100px 100px;
+        color: white;
+		
+<img alt="Gambar Koala" src="3179007628.jpg" height="180" width="1000" />
+<blink><i><font face=united kingdom size=7 color=coral><marquee scrollmount=7> Selamat Datang Di MIKEYSHOP,DUIT ANDA BERKURANG DUIT SAYA NAMBAH YAAAAA</marquee></i><color=blue></blink>
+<PRE>
+Nama Barang:<select><option value=" "><option value="1">JAKET NAVI<option value="2">THSIRT RABU DOTA<option value="3">THSIRT ACERPREDATOR<option value="4"><input type="text" size="25"name="bilangan1">
+<b><P align="center"><font color="red">clo</font><font color="white">thes</font> </p></b>
+
+Nama Barang:<select><option value=" "><option value="1">KEYBOARD RAZER<option value="2">HEADSET RAZER<option value="3">Charger<option value="4">Headset<input type="text"size="25"name="bilangan2">
+<b><P align="center"><font color="red">ge</font><font color="white">ar</font> </p></b>
+
+
+Nama Barang:<select><option value=" "><option value="1">KOSTUM BADUT<option value="2">Kaos<option value="3">Sepatu<option value="4">Sandal<input type="text"size="25"name="bilangan3">
+
+Nama Barang:<select><option value=" "><option value="1">MINIATUR MICKEYMOUSE<option value="2">Tas Travel<option value="3">Tas Sekolah<option value="4">Tas Selempang<input type="text"size="25"name="bilangan4">
+</PRE>
+<P>
+<INPUT TYPE="button"value="Jumlahkan" onclick="jumlah()">
+<INPUT TYPE="reset"value="Reset">
+</FORM>
+</BODY>
+</html>
