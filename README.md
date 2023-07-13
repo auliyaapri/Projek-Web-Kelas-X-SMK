@@ -1,6 +1,6 @@
-# Projek Web Kelas X SMK
+# Projek Web Kelas X SMK✨
 
-Membuat website dengan tema penjualan
+Membuat website sederhana dengan tema penjualan
 
 https://auliyaapri.github.io/Projek-Web-Kelas-X-SMK/
 
